@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\yemi0\문서\project\20251111project\20251111project\main.c(135,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yemi0\문서\project\20251111project\20251111project\main.c(169,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yemi0\문서\project\20251111project\20251111project\main.c(185,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yemi0\문서\project\20251111project\20251111project\main.c(232,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\yemi0\문서\project\20251111project\20251111project\main.c(272,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  20251111project.vcxproj -> C:\Users\yemi0\문서\project\20251111project\x64\Debug\20251111project.exe
