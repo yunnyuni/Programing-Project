@@ -48,5 +48,7 @@ void set_state(player*); //경험치에 따른 레벨업과 레벨에 따른 공격력 상승
 void player_action(player*, item*, int*); //플레이어의 행동 결정
 void battle_enemy(player*, item*, char[], int); //적과의 전투
 int use_item(player*, item*, char[]); //아이템 사용
+
+//엔딩 관련
 void badend1(); //플레이어의 체력이 0이 됐을 때 엔딩
 void badend2(); //플레이어가 1층에서 다시 내려갔을 때 엔딩
